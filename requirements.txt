@@ -1,0 +1,18 @@
+# Project: Ethereum Gas Fees vs. NFT Market Activity Requirements
+
+# Data Handling and Analysis
+pandas
+numpy
+requests
+statsmodels
+matplotlib
+seaborn
+scikit-learn
+openpyxl  # Recommended for reading/writing .xlsx files if needed
+python-dotenv  # For securely loading .env files
+
+# Blockchain API Integration
+dune-client
+
+# Causal Inference Model
+causalimpact
