@@ -1,1 +1,16 @@
 venv/
+
+# .gitignore file content
+
+# Python dependencies
+__pycache__/
+*.pyc
+
+# Data folders
+data/
+
+# Sensitive credentials
+.env
+
+# Jupyter Notebook checkpoint files
+.ipynb_checkpoints/
